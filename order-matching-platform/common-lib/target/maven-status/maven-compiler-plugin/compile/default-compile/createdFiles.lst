@@ -1,0 +1,10 @@
+com\exchange\model\Trade$TradeBuilder.class
+com\exchange\model\Order.class
+com\exchange\events\ExecutionReport.class
+com\exchange\enums\TimeInForce.class
+com\exchange\events\ExecutionReport$ExecutionReportBuilder.class
+com\exchange\model\Trade.class
+com\exchange\model\Order$OrderBuilder.class
+com\exchange\events\KafkaTopics.class
+com\exchange\enums\OrderStatus.class
+com\exchange\enums\OrderSide.class

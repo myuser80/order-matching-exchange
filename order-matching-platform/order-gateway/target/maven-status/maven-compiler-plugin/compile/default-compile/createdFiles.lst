@@ -1,0 +1,9 @@
+com\exchange\dto\OrderRequest.class
+com\exchange\OrderGatewayApplication.class
+com\exchange\entity\OrderEntity.class
+com\exchange\config\KafkaProducerConfig.class
+com\exchange\service\OrderService.class
+com\exchange\controller\OrderController.class
+com\exchange\entity\OrderEntity$OrderEntityBuilder.class
+com\exchange\kafka\OrderProducer.class
+com\exchange\repository\OrderRepository.class

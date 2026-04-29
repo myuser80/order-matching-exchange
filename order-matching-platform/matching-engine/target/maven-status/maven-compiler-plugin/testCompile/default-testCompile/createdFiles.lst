@@ -1,0 +1,5 @@
+com\exchange\MatchingAlgorithmTest$BasicMatching.class
+com\exchange\MatchingAlgorithmTest$PriceTimePriority.class
+com\exchange\MatchingAlgorithmTest$TimeInForceTests.class
+com\exchange\MatchingAlgorithmTest.class
+com\exchange\MatchingAlgorithmTest$PartialFills.class

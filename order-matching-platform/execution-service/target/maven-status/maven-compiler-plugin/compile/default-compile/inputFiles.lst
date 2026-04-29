@@ -1,0 +1,7 @@
+E:\order-matching-platform\execution-service\src\main\java\com\exchange\entity\TradeEntity.java
+E:\order-matching-platform\execution-service\src\main\java\com\exchange\ExecutionServiceApplication.java
+E:\order-matching-platform\execution-service\src\main\java\com\exchange\service\ExecutionService.java
+E:\order-matching-platform\execution-service\src\main\java\com\exchange\repository\TradeRepository.java
+E:\order-matching-platform\execution-service\src\main\java\com\exchange\controller\ExecutionController.java
+E:\order-matching-platform\execution-service\src\main\java\com\exchange\kafka\TradeConsumer.java
+E:\order-matching-platform\execution-service\src\main\java\com\exchange\config\KafkaConsumerConfig.java

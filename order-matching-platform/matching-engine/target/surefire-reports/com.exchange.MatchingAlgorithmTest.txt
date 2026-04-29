@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.exchange.MatchingAlgorithmTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.980 s -- in com.exchange.MatchingAlgorithmTest
